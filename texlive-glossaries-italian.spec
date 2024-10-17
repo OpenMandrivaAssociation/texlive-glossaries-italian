@@ -3,7 +3,7 @@ Version:	35665
 Release:	2
 Summary:	Italian language module for glossaries package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-italian
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/glossaries-italian
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-italian.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/glossaries-italian.doc.r%{version}.tar.xz
